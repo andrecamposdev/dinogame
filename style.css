@@ -1,5 +1,5 @@
 body {
-  background: #fafafa;
+  background: #141414;
 }
 
 .dino {
@@ -37,7 +37,7 @@ body {
 .background {
   position: absolute;
   bottom: 0px;
-  background-image: url('background.png');
+  background-image: url('background2.png');
   background-repeat: repeat-x;
   animation: slideright 600s infinite linear;
   -webkit-animation: slideright 600s infinite linear;
